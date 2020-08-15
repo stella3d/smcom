@@ -1,2 +1,0 @@
-# smcom
- A ✨Website 
